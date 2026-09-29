@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 Perfil Profesional
+### Perfil Profesional
 
 Soy estudiante de **8.° semestre de Ingeniería de Sistemas** en la **Universidad El Bosque**,  
 
@@ -21,7 +21,7 @@ Cuento con criterio para traducir requerimientos de negocio en soluciones funcio
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 <div align="left">
 
@@ -56,7 +56,7 @@ Cuento con criterio para traducir requerimientos de negocio en soluciones funcio
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📦 QuickCourier</h3>
+      <h3 align="center"> QuickCourier</h3>
       <p><b>Plataforma Fullstack de Logística y Envíos</b></p>
       <ul>
         <li>Automatización de pedidos y cálculo dinámico de costos de flete.</li>
@@ -69,7 +69,7 @@ Cuento con criterio para traducir requerimientos de negocio en soluciones funcio
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚙️ Simulador de Autómatas (AFD / AFN)</h3>
+      <h3 align="center"> Simulador de Autómatas (AFD / AFN)</h3>
       <p><b>Software de Análisis Formal & Compiladores</b></p>
       <ul>
         <li>Aplicación de escritorio interactiva (<i>Drag & Drop</i>) en <b>JavaFX</b>.</li>
@@ -87,22 +87,9 @@ Cuento con criterio para traducir requerimientos de negocio en soluciones funcio
 
 ---
 
-### 📊 Actividad y Métricas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeisonGomez13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonGomez13&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeisonGomez13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 📬 Contacto y Redes
+### Contacto y Redes
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeison-miguel-g%C3%B3mez-g%C3%B3mez/" target="_blank">
