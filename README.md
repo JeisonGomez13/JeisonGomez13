@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=180&section=header&text=Jeison%20Miguel%20G%C3%B3mez&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Ingeniero+de+Sistemas+en+Formaci%C3%B3n;Backend+%26+Full+Stack+Developer+%7C+Java+%E2%80%A2+Spring+Boot;Enfocado+en+Arquitectura+de+Software+y+Automatizaci%C3%B3n;Spec-Driven+Development+(SDD)+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Ingeniero+de+Sistemas+en+Formaci%C3%B3n;Enfocado+en+Arquitectura+de+Software+y+Automatizaci%C3%B3n;Spec-Driven+Development+(SDD)+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,13 +11,13 @@
 
 ### 👨‍💻 Perfil Profesional
 
-Soy estudiante de **8.° semestre de Ingeniería de Sistemas** en la **Universidad El Bosque**, enfocado en el desarrollo de software backend y la automatización de procesos. 
+Soy estudiante de **8.° semestre de Ingeniería de Sistemas** en la **Universidad El Bosque**,  
 
 Cuento con criterio para traducir requerimientos de negocio en soluciones funcionales, escalables y confiables, aplicando principios sólidos de ingeniería como **Spec-Driven Development (SDD)** y metodologías ágiles (**Scrum**).
 
-- 🎓 **Educación:** Universidad El Bosque (2023 - Actualidad) — 8.° Semestre.
-- ⚙️ **Áreas de interés:** Arquitectura Backend, Diseño de APIs REST, Automatización de Procesos y Algoritmia Formal.
-- 🎯 **Objetivo:** Iniciar mi carrera profesional en un rol de **Desarrollador Junior / Trainee / Practicante** donde pueda aportar valor y seguir formándome en estándares de la industria.
+- **Educación:** Universidad El Bosque (2023 - Actualidad) — 8.° Semestre.
+- **Áreas de interés:** Automatización de Procesos e Inteligencia Artificial.
+
 
 ---
 
@@ -42,8 +42,6 @@ Cuento con criterio para traducir requerimientos de negocio en soluciones funcio
 **Bases de Datos & Herramientas:**  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Metodologías & Enfoques de Ingeniería:**  
 ![Spec-Driven Development](https://img.shields.io/badge/Enfoque-Spec--Driven_Development_(SDD)-0284C7?style=for-the-badge)
@@ -53,7 +51,7 @@ Cuento con criterio para traducir requerimientos de negocio en soluciones funcio
 
 ---
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 <table>
   <tr>
@@ -67,7 +65,7 @@ Cuento con criterio para traducir requerimientos de negocio en soluciones funcio
         <li><b>Stack:</b> Java, Spring Boot, SQL, REST APIs.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/JeisonGomez13/QuickCourier"><b>Ver Repositorio ➔</b></a>
+        <a href="https://github.com/InsoMars/QuickCourier"><b>Ver Repositorio ➔</b></a>
       </p>
     </td>
     <td width="50%">
