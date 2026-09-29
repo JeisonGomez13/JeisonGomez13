@@ -1,6 +1,6 @@
 <!-- HEADER DINÁMICO CON GRADIENTE Y EFECTO TYPING -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=180&section=header&text=Jeison%20Miguel%20G%C3%B3mez&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=180&section=header&text=Jeison%20Miguel%20G%C3%B3mez%20G%C3%B3mez&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Ingeniero+de+Sistemas+en+Formaci%C3%B3n;Enfocado+en+Arquitectura+de+Software+y+Automatizaci%C3%B3n;Spec-Driven+Development+(SDD)+Enthusiast" alt="Typing SVG" />
