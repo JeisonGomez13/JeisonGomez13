@@ -79,7 +79,7 @@ Cuento con criterio para traducir requerimientos de negocio en soluciones funcio
         <li><b>Stack:</b> Java 17, JavaFX, Algoritmia Formal.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/JeisonGomez13/Automata-Simulator"><b>Ver Repositorio ➔</b></a>
+        <a href="https://github.com/JeisonGomez13/Creador-y-simulador-de-Automatas"><b>Ver Repositorio ➔</b></a>
       </p>
     </td>
   </tr>
